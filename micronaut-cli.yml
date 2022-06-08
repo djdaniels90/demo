@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: spock
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, aws-alexa, aws-lambda, cassandra, github-workflow-graal-docker-registry, google-cloud-function, google-cloud-function-http, gradle, http-client, kafka, kafka-streams, kotlin, kotlin-application, kotlin-extension-functions, log4j2, management, micrometer, micrometer-prometheus, openapi, readme, shade, spock, yaml]
